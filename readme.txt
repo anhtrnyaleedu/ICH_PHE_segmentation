@@ -7,5 +7,5 @@ Unseen independent test data: 900 CT patients Charite
 
 A full pipeline using a deep learning method is proposed for ICH and PHE segmentation. First, we apply the skull stripping method, extract the brain window from 3D brain non-contrast head CT, and crop the objects inside the image. Second, we resample all the images to the same spacing. Then, SinNET, a combination of Swin UNEt Transformers (SwinUNETR) with no new UNET (nn-UNET) is used
 
-Download the application:
+Download the application Ubuntu>=20:
 Help for running
